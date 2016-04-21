@@ -1,1 +1,1 @@
-# rtcwake
+build rtcwake for linux embedded
