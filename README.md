@@ -1,4 +1,4 @@
-# Source code to build rtcwake service for Embedded Linux
+# Source code to build rtcwake application for Embedded Linux
 - Add your own Makefile to build
 - Use below command to excute
 ```
