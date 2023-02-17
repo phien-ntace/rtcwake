@@ -4,7 +4,7 @@
 ```
 rtcwake -m $(sleep_method) -s $(seconds)
 ```
-Or
+Or call through `system()`
 ```
 system("/root/rtcwake -m mem -s 10");
 ```
