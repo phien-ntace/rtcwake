@@ -1,5 +1,5 @@
-# Source code to build rtcwake application for Embedded Linux
-- Add your own Makefile to build
+# Source code to build rtcwake application for Linux
+- Add your own Makefile to build. To build for your desktop, can use this command `gcc -o rtcwake rtcwake.c -I.` 
 - Use below command to excute
 ```
 rtcwake -m $(sleep_method) -s $(seconds)
